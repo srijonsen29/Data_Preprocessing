@@ -28,12 +28,12 @@ DataPreProcessing.ipynb – Contains the step-by-step implementation of data pre
 
 Install Dependencies (if not already installed)
 
-pip install pandas numpy scikit-learn matplotlib seaborn
-
+👨‍💻 pip install pandas numpy scikit-learn matplotlib seaborn
+  
 
 Open Jupyter Notebook
 
-jupyter notebook DataPreProcessing.ipynb
+👨‍💻 jupyter notebook DataPreProcessing.ipynb
 
 
 Run the Notebook step by step to understand and apply preprocessing techniques.
